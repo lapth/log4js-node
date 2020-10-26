@@ -45,7 +45,7 @@
     "circular-json": "^0.5.5",
     "date-format": "^1.2.0",
     "debug": "^3.1.0",
-    "rfdc": "^1.1.2",
+    "rfdc": "^1.1.4",
     "streamroller": "0.7.0"
   },
   "devDependencies": {
